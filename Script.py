@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Heya {},
-I am <a href=https://t.me/{}>{}</a> I am a simple bot which can provide movies in your group"""
+I am <a href=https://t.me/{}>{}</a> My Name is Bae Suzy
     HELP_TXT = """heya {}
 I have the following features. Tap the button in which you want help."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -9,17 +9,16 @@ I have the following features. Tap the button in which you want help."""
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>Annabelle:</b>
-- Annabelle is a open source project made by <a href=https://t.me/vaishnavgr8>Vaishnav</a>. 
-- Source - <a href= https://github.com/Vaishnavofficial/Annabelle>Click here </a>
-<b>Support channel:</b>
-- <a href=https://t.me/Dianasupport>Team Diana</a>"""
+    SOURCE_TXT = """<b>Bae Suzy:</b>
+- Yo Yo yo  <a href=https://t.me/vaishnavgr8>Vaishnav</a>. 
+<b>Updates channel:</b>
+- <a href=https://t.me/numberonemovieworld</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Annabelle will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Annabelle should have admin privillage.
+1. Bae Suzy should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -30,11 +29,11 @@ I have the following features. Tap the button in which you want help."""
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Annabelle Supports both url and alert inline buttons.
+- Bae Suzy Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Annabelle supports buttons with any telegram media type.
+2. Bae Suzy supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
